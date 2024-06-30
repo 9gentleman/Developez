@@ -33,13 +33,13 @@ Ensure you have the following installed on your system:
 
 # Installation
 - Clone the repository:
-'''
-    git clone https://github.com/yourusername/javaproject.git
-'''
+```sh
+git clone https://github.com/9gentleman/Developez
+```
 - Navigate to the project directory:
-'''
-    cd javaproject
-'''
+```sh
+cd javaproject
+```
 - Open the project in the Processing IDE and save it with a different name. This will create a sketchbook.
 
 - Copy the folder named data containing all images into the newly created sketchbook directory.
