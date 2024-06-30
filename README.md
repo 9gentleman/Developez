@@ -54,7 +54,7 @@ Enjoy playing!
 Gameplay Video
 ---------------------------------
 `
-https://www.youtube.com/watch?v=DJNxNZKSfNU v=videoid
+https://www.youtube.com/watch?v=DJNxNZKSfNUv=videoid
 `
 
 Contributing
