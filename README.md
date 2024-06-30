@@ -18,6 +18,8 @@ Table of Contents
 
 . Contact
 
+.Gameplay Video
+
 About the Project
 ---------------------------------
 This game challenges our character to survive against enemies for 100 seconds across various levels.
@@ -48,6 +50,12 @@ Usage
 ---------------------------------
 To run the game, open the main sketch file in the Processing IDE and click the Run button.
 Enjoy playing!
+
+Gameplay Video
+---------------------------------
+`
+https://www.youtube.com/watch?v=DJNxNZKSfNU v=videoid
+`
 
 Contributing
 ---------------------------------
