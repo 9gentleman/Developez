@@ -4,15 +4,13 @@ Welcome to our Java Game Project! This repository contains the complete source c
 
 Table of Contents
 ---------------------------------
-About the Project
--Features
--Getting Started
--Prerequisites
--Installation
--Usage
--Contributing
--License
--Contact
+. About the Project
+. Getting Started
+. Prerequisites
+. Installation
+. Usage
+. Contributing
+. Contact
 
 About the Project
 ---------------------------------
